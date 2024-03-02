@@ -2,9 +2,8 @@
 
 ### 🌐 Cara Menggunakan:
 
-1. **Bergabung dengan Bot:** Mulai dengan bergabung dengan bot ini di Telegram. Cukup ketik `@NamaBot` di kolom pencarian Telegram dan pilih untuk bergabung.
 
-2. **Gunakan Perintah:** Setelah bergabung, ketik perintah `.gempa` di obrolan untuk melihat informasi terbaru tentang gempa bumi di berbagai lokasi.
+1. **Gunakan Perintah:** Setelah bergabung, ketik perintah `.gempa` di obrolan untuk melihat informasi terbaru tentang gempa bumi di berbagai lokasi.
 
 ### 🚀 Fitur Utama:
 
@@ -15,7 +14,6 @@
 ### 💬 Contoh Penggunaan:
 
 - Ketik `.gempa` untuk melihat gempa terkini.
-- Gunakan `.gempa histori` untuk melihat histori gempa.
 
 
 ### 🌐 Terima kasih telah menggunakan Bot Pemantau Gempa! 🌐
