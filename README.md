@@ -1,21 +1,19 @@
-🌎 **Selamat Datang di Repositori Bot Telegram Pemantau Gempa!** 🌍
+# **Welcome to the Earthquake Monitoring Telegram Bot Repository!**
 
-### 🌐 Cara Menggunakan:
+### **How to Use:**
 
+1. **Use the Command:** After joining, type the command `.earthquake` in the chat to view the latest earthquake information from various locations.
 
-1. **Gunakan Perintah:** Setelah bergabung, ketik perintah `.gempa` di obrolan untuk melihat informasi terbaru tentang gempa bumi di berbagai lokasi.
+### **Main Features:**
 
-### 🚀 Fitur Utama:
+- **Global Monitoring:** This bot provides information about recent earthquakes worldwide.
+- **Detailed Information:** Get data such as magnitude, location, depth, and time of the earthquake.
+- **Earthquake History:** Access historical earthquake data for a specific period using additional commands.
 
-- 🌐 **Pemantauan Global:** Bot ini memberikan informasi tentang gempa terkini di seluruh dunia.
-- 📊 **Detail Lengkap:** Dapatkan data seperti magnitudo, lokasi, kedalaman, dan waktu gempa.
-- 📅 **Histori Gempa:** Akses riwayat gempa untuk periode tertentu dengan perintah tambahan.
+### **Example Usage:**
 
-### 💬 Contoh Penggunaan:
+- Type `.earthquake` to see the latest earthquake updates.
 
-- Ketik `.gempa` untuk melihat gempa terkini.
+### **Thank you for using the Earthquake Monitoring Bot!**
 
-
-### 🌐 Terima kasih telah menggunakan Bot Pemantau Gempa! 🌐
-
-Terima kasih telah menggunakan bot ini untuk tetap update tentang gempa bumi. Semoga ini bermanfaat dan membantu Anda dalam menjaga keselamatan dan kewaspadaan. Jangan ragu untuk memberikan umpan balik atau berkontribusi pada pengembangan bot ini! ⭐️
+Thank you for using this bot to stay updated about earthquakes. We hope it is helpful in keeping you informed and safe. Feel free to provide feedback or contribute to the development of this bot!
